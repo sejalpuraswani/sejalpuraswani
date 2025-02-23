@@ -1,14 +1,5 @@
 # Hi there, I'm Sejal Puraswani! 👋
 
-## 🚀 A Passionate Software Engineer | Frontend Developer | Tech Enthusiast  
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sejalpuraswani&label=Profile%20views&color=0e75b6&style=flat" alt="sejalpuraswani" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sejalpuraswani" alt="sejalpuraswani" /></a> </p>
-
----
-
 ## 💡 About Me
 
 I'm a dedicated **Software Engineer** with a passion for **Full-Stack Development**, specializing in **Frontend Development**. I love turning ideas into intuitive and seamless digital experiences. My expertise lies in **JavaScript, React.js, and Web Development**, and I'm on a continuous journey of **learning and growth** in the world of tech. 
@@ -25,7 +16,6 @@ I'm a dedicated **Software Engineer** with a passion for **Full-Stack Developmen
 
 - 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/sejal-puraswani-87a340237/)
 
----
 
 ## 🏆 Work Experience
 
@@ -35,31 +25,6 @@ I'm a dedicated **Software Engineer** with a passion for **Full-Stack Developmen
 - Enhanced team collaboration with **Git & GitHub**.
 - Strengthened **problem-solving** skills through real-world projects and **DSA challenges**.
 
----
-
-## 🌟 Featured Projects
-
-### 🔧 Healthcare Portal
-- A web-based platform for managing patient records and appointments.
-- **Tech Stack:** HTML, CSS, Java, JSP, MySql
-- [GitHub Repo](https://github.com/sejalpuraswani/healthcare-portal)
-
-### 🎶 RhythmHub 
-- A modern, responsive **music streaming website**.
-- **Tech Stack:** HTML, CSS, JavaScript
-- [GitHub Repo](https://github.com/sejalpuraswani/rhythmhub)
-
-### 💡 Simon Game
-- A **fun, memory-based game** inspired by the classic Simon game.
-- **Tech Stack:** JavaScript, HTML, CSS
-- [GitHub Repo](https://github.com/sejalpuraswani/simon-game)
-
-### 👤 QR Code Generator
-- A **tool to generate QR codes** for text and URLs.
-- **Tech Stack:** JavaScript, HTML, CSS, Node.js
-- [GitHub Repo](https://github.com/sejalpuraswani/qr-code-generator)
-
----
 
 ## 🚀 Tech Stack & Skills
 
@@ -69,16 +34,25 @@ I'm a dedicated **Software Engineer** with a passion for **Full-Stack Developmen
 ### 🛠️ Tools & Technologies:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
+
 
 ## 🌟 GitHub Stats
 ![Sejal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sejalpuraswani&show_icons=true&theme=radical)
 
+
+
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sejalpuraswani" alt="sejalpuraswani" /></a> </p>
+
+
+
+## 📈 Most Used Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejalpuraswani&layout=compact&theme=radical)
 
----
+
 
 ## 👥 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sejal-puraswani-87a340237/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sejalpuraswani) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sejalpuraswani@gmail.com)
 
----
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sejalpuraswani&label=Profile%20views&color=0e75b6&style=flat" alt="sejalpuraswani" /> </p>
