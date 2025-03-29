@@ -10,20 +10,11 @@ I'm a dedicated **Software Engineer** with a passion for **Full-Stack Developmen
 
 - 👨‍💻 All of my projects are available at [https://github.com/sejalpuraswani](https://github.com/sejalpuraswani)
 
-- 💬 Ask me about **JavaScript, React.js, Frontend Development**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **sejalpuraswani@gmail.com**
 
 - 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/sejal-puraswani-87a340237/)
-
-
-## 🏆 Work Experience
-
-### 🗓 Associate Software Engineer Intern @ Coditas *(Aug 2024 - Dec 2024)*
-- Developed **responsive** and **user-friendly** web applications using **React.js** & **JavaScript**.
-- Worked on **API Integration**, improving data-fetching performance.
-- Enhanced team collaboration with **Git & GitHub**.
-- Strengthened **problem-solving** skills through real-world projects and **DSA challenges**.
 
 
 ## 🚀 Tech Stack & Skills
