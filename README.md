@@ -2,7 +2,7 @@
 
 ## 💡 About Me
 
-I'm a dedicated **Software Engineer** with a passion for **Full-Stack Development**, specializing in **Frontend Development**. I love turning ideas into intuitive and seamless digital experiences. My expertise lies in **JavaScript, React.js, and Web Development**, and I'm on a continuous journey of **learning and growth** in the world of tech. 
+I'm a dedicated **Software Engineer** with a passion for **Full-Stack Development**, specializing in **Frontend Development**.
 
 - 🌱 I’m currently learning **MERN Stack**
 
